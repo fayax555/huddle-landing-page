@@ -8,6 +8,11 @@
   }
 }
 
-h1, h2 {
+h1,
+h2 {
   font-family: 'Poppins', sans-serif;
+}
+
+header {
+  background: url('images/bg-hero-mobile.svg') no-repeat hsl(193, 100%, 96%);
 }
